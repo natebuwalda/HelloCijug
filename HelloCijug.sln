@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCijug", "HelloCijug\HelloCijug.csproj", "{33C47350-808E-41C8-9D47-0BB7AAC246E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCijugTest", "HelloCijugTest\HelloCijugTest.csproj", "{F4565561-9DCE-4611-9413-18FCC86A33FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C47350-808E-41C8-9D47-0BB7AAC246E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C47350-808E-41C8-9D47-0BB7AAC246E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C47350-808E-41C8-9D47-0BB7AAC246E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C47350-808E-41C8-9D47-0BB7AAC246E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4565561-9DCE-4611-9413-18FCC86A33FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4565561-9DCE-4611-9413-18FCC86A33FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4565561-9DCE-4611-9413-18FCC86A33FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4565561-9DCE-4611-9413-18FCC86A33FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
